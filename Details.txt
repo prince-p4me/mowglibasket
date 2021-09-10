@@ -1,0 +1,43 @@
+Gmail
+id: - mowglibasket@gmail.com
+pwd - moglibasket123@
+=============================
+
+Gmail
+id: - mowglibasket@gmail.com
+pwd - moglibasket123@
+
+=============================
+
+Apple
+
+id -  mowglibasket@gmail.com
+password - Gagansurolia1992@
+
+===============================
+
+Razor Pay TEST Key
+rzp_test_5j0afCBaqESvPa
+MMDJV3CCGDzHhtVNEZu2c1k2
+===========================
+Razor Pay LIVE Key
+rzp_live_ul0yCiguUy76v1
+y737JUC4vTX0DkLchr58q9yB
+
+
+
+===========================
+
+admin
+
+https://www.mowglibasket.com/aapnidukanm
+mowglibasket
+5#YgVmboeny6fx1CRZ*avyPP
+
+
+==========================
+Keystore Android 
+
+Alias name : MowgliBasket	
+Password   : MowgliBasket#0
+Organization : MowgliBasket

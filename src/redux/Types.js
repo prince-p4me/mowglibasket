@@ -1,0 +1,12 @@
+export const SPLASH = 'SPLASH'
+export const AUTH = 'AUTH'
+export const USER = 'USER'
+export const APPLY_SORTING = 'APPLY_SORTING'
+export const APPLY_FILTER = 'APPLY_FILTER'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
+export const DRAWER = 'DRAWER'
+export const HOME = 'HOME'
+export const CART = "CART"
+export const ADD_TO_CART = "ADD_TO_CART"
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART"
+export const DELETE_CART = "DELETE_CART"

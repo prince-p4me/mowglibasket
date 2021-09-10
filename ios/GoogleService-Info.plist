@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDD4QEi6g29f5TogwhV_p6zcU4gakSCWsE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>754801441328</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MowgliBasket.MowgliBasket</string>
+	<key>PROJECT_ID</key>
+	<string>mowglibasket-75bc9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mowglibasket-75bc9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:754801441328:ios:b2a661d45ff4f8ecbc0bf5</string>
+	<key>DATABASE_URL</key>
+	<string>https://mowglibasket-75bc9.firebaseio.com</string>
+</dict>
+</plist>

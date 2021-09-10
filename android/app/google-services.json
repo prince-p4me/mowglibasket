@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754801441328",
+    "firebase_url": "https://mowglibasket-75bc9.firebaseio.com",
+    "project_id": "mowglibasket-75bc9",
+    "storage_bucket": "mowglibasket-75bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754801441328:android:c67e287dfda2bd98bc0bf5",
+        "android_client_info": {
+          "package_name": "com.mowglibasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754801441328-oh96g7ne9oomq4olqhtifeo0pnr3nfb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AqIXxr9V4DeY5GxPkzyL6DWsbcoZJuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754801441328-oh96g7ne9oomq4olqhtifeo0pnr3nfb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754801441328-cq94ovnfkiukjfthr7mg663bsmvsdv0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MowgliBasket.MowgliBasket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
